@@ -16,4 +16,4 @@ Detecting the Road lanes using OpenCV
 •	Finally, Blended the line image on top of the original image.
 •	Then, averaged the left line coordinates and the right line coordinates for a perfect fit.
 •	Further imported the mp4 video of the lane and executed the same algorithm on the video.
-•	As expected, it detects the lanes as were seen in the image.
+•	As expected, it detects the lanes as were seen in the images.
